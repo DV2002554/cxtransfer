@@ -4,10 +4,10 @@ import time
 import os
 
 # Configuration
-SOURCE_SPREADSHEET_ID = '1FzPPc-rvjfFs_R44Ok29ivFreDcW_W3WyQVrYIy8LaM'
-SOURCE_SHEET_NAME = 'TEST'
-TARGET_SPREADSHEET_ID = '1Hd2TbGozRvRqJKpnpKa3CDF_X_V9wXNYt5aXivHbats'
-TARGET_SHEET_NAME = 'TEST'
+SOURCE_SPREADSHEET_ID = '1LVCOmdI66eibnOXYueNgsCQy5U9vEpgdjXxVtliwCk4'
+SOURCE_SHEET_NAME = 'Transfer'
+TARGET_SPREADSHEET_ID = '1TuqS0LiYMMVlfWtum4RDwRRB0Zv8yPiH3VTyOexmnNo'
+TARGET_SHEET_NAME = 'CX Sheet'
 CREDENTIALS_FILE = '/etc/secrets/auto.json'
 
 # Scopes for Google Sheets API
