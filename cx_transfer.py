@@ -4,7 +4,7 @@ import time
 import os
 
 # Configuration
-SOURCE_SPREADSHEET_ID = '1FzPPc-1LVCOmdI66eibnOXYueNgsCQy5U9vEpgdjXxVtliwCk4'
+SOURCE_SPREADSHEET_ID = '1LVCOmdI66eibnOXYueNgsCQy5U9vEpgdjXxVtliwCk4'
 SOURCE_SHEET_NAME = 'Transfer'
 TARGET_SPREADSHEET_ID = '1TuqS0LiYMMVlfWtum4RDwRRB0Zv8yPiH3VTyOexmnNo'
 TARGET_SHEET_NAME = 'CX Sheet'
