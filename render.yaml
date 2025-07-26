@@ -3,7 +3,7 @@ services:
     name: google-sheets-transfer
     runtime: python
     buildCommand: "pip install -r requirements.txt"
-    startCommand: "python3 cx_transfer.py" # Match the new filename
+    startCommand: "python3 cx_transfer.py"
     secretFiles:
       - key: auto.json
         path: /etc/secrets/auto.json
