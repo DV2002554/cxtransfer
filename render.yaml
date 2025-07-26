@@ -1,10 +1,9 @@
 services:
-  # A Background Worker running a Python script.
   - type: worker
     name: google-sheets-transfer
     runtime: python
     buildCommand: "pip install -r requirements.txt"
-    startCommand: "python3 TranferCX.py" # Changed to python3
+    startCommand: "python3 cx_transfer.py" # Match the new filename
     secretFiles:
       - key: auto.json
         path: /etc/secrets/auto.json
