@@ -6,7 +6,7 @@ import os
 # Configuration
 SOURCE_SPREADSHEET_ID = '1LVCOmdI66eibnOXYueNgsCQy5U9vEpgdjXxVtliwCk4'
 SOURCE_SHEET_NAME = 'Transfer'
-TARGET_SPREADSHEET_ID = '1TuqS0LiYMMVlfWtum4RDwRRB0Zv8yPiH3VTyOexmnNo'
+TARGET_SPREADSHEET_ID = '1Ve0qjcXwR0GjMnA3-rVVySFe7UgxwnAcmGGwLWbrP5M'
 TARGET_SHEET_NAME = 'CX Sheet'
 CREDENTIALS_FILE = '/etc/secrets/auto.json'
 
