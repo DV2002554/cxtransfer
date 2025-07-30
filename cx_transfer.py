@@ -6,8 +6,8 @@ import os
 # Configuration
 SOURCE_SPREADSHEET_ID = '1LVCOmdI66eibnOXYueNgsCQy5U9vEpgdjXxVtliwCk4'
 SOURCE_SHEET_NAME = 'Transfer'
-TARGET_SPREADSHEET_ID = '1Hd2TbGozRvRqJKpnpKa3CDF_X_V9wXNYt5aXivHbats'
-TARGET_SHEET_NAME = 'TEST'
+TARGET_SPREADSHEET_ID = '1Ve0qjcXwR0GjMnA3-rVVySFe7UgxwnAcmGGwLWbrP5M'
+TARGET_SHEET_NAME = 'CX Sheet'
 CREDENTIALS_FILE = '/etc/secrets/auto.json'
 
 # Scopes for Google Sheets API
